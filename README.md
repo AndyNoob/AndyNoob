@@ -1,14 +1,14 @@
 # 👋 Hi, I’m @AndyNoob, gamer and Java programmer
 
 ## Specializes in
-- 🔌 Minecraft Spigot plugin development (~1 year and a half)
+1. 🔌 Minecraft Spigot plugin development (~1 year and a half)
 
 ## Interested in
-- 🖥 Web (HTML, JS, CSS) development (~1 year)
-- 🤖 Discord bot (Java/JS/~~Python~~) development (~1 year)
+1. 🖥 Web (HTML, JS, CSS) development (~1 year)
+2. 🤖 Discord bot (Java/JS/~~Python~~) development (~1 year)
 
 ## My work?
-- https://andynoob.github.io
+1. https://andynoob.github.io
 
 ## Contact me
 **Discord**: `A Wild Andy_LoL#9726`
