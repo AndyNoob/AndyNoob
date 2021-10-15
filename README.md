@@ -5,7 +5,7 @@
 
 ## Interested in
 1. 🖥 Web (HTML, JS, CSS) development (~1 year)
-2. 🤖 Discord bot (Java/JS/~~Python~~) development (~1 year)
+2. 🤖 Discord bot (Java/JS/Python) development (~1 year, Python for couple months now)
 
 ## My work?
 1. https://andynoob.github.io
