@@ -1,11 +1,12 @@
 # 👋 Hi, I’m @AndyNoob, gamer and Java programmer
 
-## Specializes in
+## Currently dying working on
 1. 🔌 Minecraft Spigot plugin development (~Since March 2020)
+2. 🖥 React development (~Summer 2021)
+3. \<insert emoji\> Rust
 
-## Interested in
-1. 🖥 Web (HTML, JS, CSS) development (~Summer 2021)
-2. 🤖 Discord bot (Java/JS/Python) development (~Somewhere around summer 2021)
+## Endured pain from
+1. 🤖 making Discord bot (Java/JS/Python) (~Somewhere around summer 2021)
 
 ## My totally working work?
 1. https://andynoob.github.io
