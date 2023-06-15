@@ -3,7 +3,7 @@
 ## Currently dying working on
 1. 🔌 Minecraft Spigot plugin development (~Since March 2020)
 2. 🖥 React development (~Summer 2021)
-3. \<insert emoji\> Rust
+3. 🦀 Rust
 
 ## Endured pain from
 1. 🤖 making Discord bot (Java/JS/Python) (~Somewhere around summer 2021)
