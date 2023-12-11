@@ -12,11 +12,7 @@
 1. https://andynoob.github.io
 2. https://wordleripoff.netlify.app
 3. https://beeripoff.netlify.app
+4. Checked out my pinned repos!
 
 ## Contact me
-**Discord**: `A Wild Andy_LoL#9726`
-
-<!---
-AndyNoob/AndyNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Discord**: `andynoob`
