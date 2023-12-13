@@ -16,4 +16,4 @@
 
 ## Contact me
 **Discord**: `andynoob`<br>
-![discord banner](https://discordapp.com/api/guilds/1184300001405440030/widget.png?style=banner2)
+[![discord banner](https://discordapp.com/api/guilds/1184300001405440030/widget.png?style=banner2)](https://discord.gg/hmqspPuhHd)
