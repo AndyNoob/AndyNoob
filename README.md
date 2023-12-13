@@ -15,5 +15,5 @@
 4. Checked out my pinned repos!
 
 ## Contact me
-**Discord**: `andynoob`
-![Discord Banner 2](https://discordapp.com/api/guilds/hmqspPuhHd/widget.png?style=banner2)
+**Discord**: `andynoob`<br>
+![discord banner](https://discordapp.com/api/guilds/1184300001405440030/widget.png?style=banner2)
