@@ -1,12 +1,11 @@
-# 👋 Hi, I’m @AndyNoob, gamer and Java programmer
+# 👋 Hi, I’m @AndyNoob, avid Minecrafter and programmer
 
-## Currently dying working on
-1. 🔌 Minecraft Spigot plugin development (~Since March 2020)
-2. Learning maths
-
-## Endured pain from
-1. 🤖 making Discord bot (Java/JS/Python) (~Somewhere around summer 2021)
-2. Hackclub Arcade (it was pretty fun, summer 2024)
+## Stuff I've done
+1. 🔌 Minecraft server-side mod development (~March 2020)
+2. 🔢 Learning maths
+3. 🤖 Making Discord bot (Java/JS/Python) (~summer 2021)
+4. 🕹️ Hackclub Arcade (it was pretty fun, summer 2024)
+5. 🖇️ Brwoser extension creation (~summer 2026)
 
 ## My ~ripoffs~ totally original work?
 1. https://andynoob.github.io
