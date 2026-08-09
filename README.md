@@ -2,7 +2,7 @@
 
 ## Stuff I've done
 1. 🔌 Minecraft server-side mod development (~March 2020)
-2. 🔢 Learning maths
+2. 🔢 Learning maths (technically I passed calc 3; realistically I don't know what I'm doing)
 3. 🤖 Making Discord bot (Java/JS/Python) (~summer 2021)
 4. 🕹️ Hackclub Arcade (it was pretty fun, summer 2024)
 5. 🖇️ Browser extension creation (~summer 2026)
