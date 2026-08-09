@@ -5,7 +5,7 @@
 2. 🔢 Learning maths
 3. 🤖 Making Discord bot (Java/JS/Python) (~summer 2021)
 4. 🕹️ Hackclub Arcade (it was pretty fun, summer 2024)
-5. 🖇️ Brwoser extension creation (~summer 2026)
+5. 🖇️ Browser extension creation (~summer 2026)
 
 ## My ~ripoffs~ totally original work?
 1. https://andynoob.github.io
